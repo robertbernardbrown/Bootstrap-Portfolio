@@ -19,7 +19,7 @@ Bootstrap
 * CSS Style
 
 ## Site Preview
-![alt text](https://robertbernardbrown.github.io/Bootstrap-Portfolio/preview.png)
+![alt text](https://github.com/robertbernardbrown/Bootstrap-Portfolio/blob/master/preview.png)
 
 ## Future Development
 
