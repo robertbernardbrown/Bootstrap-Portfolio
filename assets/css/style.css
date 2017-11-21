@@ -24,6 +24,10 @@ html, body {
 .paragraphs {
     padding: 0 0 0 0;
 }
+.main-content {
+    margin: auto auto 5% auto;
+}
+
 
 /* MAIN CONTENT SIDEBAR */
 .side {
@@ -57,6 +61,22 @@ html, body {
     border-color: #4aaaaf;
 }
 
+/* MAIN CONTENT - PORTFOLIO */
+.img-responsive {
+    position: relative;
+    margin: 2% 0 2% 0;
+}
+.overlay {
+    background: #4aaaaf;
+    color: white;
+    position: absolute;
+    top: 80%;
+    left: 0;
+    width: 100%;
+}
+.row {
+    padding: 2%;
+}
 
 /*FOOTER*/
 .footer {
